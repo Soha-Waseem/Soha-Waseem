@@ -9,14 +9,13 @@
 - Recently built:
   - [Hangman Game in Python & Tkinter](https://github.com/Soha-Waseem/Hangman-Game)
   - [Tic-Tac-Toe in x86 Assembly](https://github.com/Soha-Waseem/Tic-Tac-Toe-Assembly)
-  - [Text Prediction Model in Python](https://github.com/Soha-Waseem/MarkovTextPrediction) *(optional if you have this)*
+
 
 ### Languages & Skills
 ![Python](https://go-skill-icons.vercel.app/api/icons?i=python)
 ![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp)
 ![Java](https://go-skill-icons.vercel.app/api/icons?i=java)
 ![HTML](https://go-skill-icons.vercel.app/api/icons?i=html)
-![Tkinter](https://go-skill-icons.vercel.app/api/icons?i=tkinter)
 ![Assembly](https://go-skill-icons.vercel.app/api/icons?i=asm)
 
 ### Let's Connect

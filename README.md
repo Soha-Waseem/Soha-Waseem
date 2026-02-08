@@ -20,6 +20,6 @@
 
 ### Let's Connect
 <a href="mailto:sohawaseem387@example.com">![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail)</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/soha-waseem">![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)</a>&nbsp;&nbsp;
+<a href="linkedin.com/in/soha-waseem-559b65362">![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)</a>&nbsp;&nbsp;
 <a href="https://github.com/Soha-Waseem">![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github)</a>&nbsp;&nbsp;
 

@@ -7,8 +7,9 @@
 - Building projects to strengthen my programming and problem-solving skills
 - Open to collaborate on beginner-friendly and intermediate projects
 - Recently built:
-  - [Hangman Game in Python & Tkinter](https://github.com/Soha-Waseem/Hangman-Game)
-  - [Tic-Tac-Toe in x86 Assembly](https://github.com/Soha-Waseem/Tic-Tac-Toe-Assembly)
+  - [Hangman Game in Python & Tkinter](https://github.com/Soha-Waseem/Hangman-Game---Python.git)
+  - [Tic-Tac-Toe in x86 Assembly](https://github.com/Soha-Waseem/Tic-Tac-Toe-Game.git)
+  - [Scents Website in HTML](https://github.com/Soha-Waseem/Scents-Website.git)
 
 
 ### Languages & Skills

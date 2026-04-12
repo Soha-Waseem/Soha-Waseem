@@ -12,8 +12,7 @@
   - [Hangman Game in Python & Tkinter](https://github.com/Soha-Waseem/Hangman-Game---Python.git)
   - [Tic-Tac-Toe in x86 Assembly](https://github.com/Soha-Waseem/Tic-Tac-Toe-Game.git)
   - [Scents Website in HTML](https://github.com/Soha-Waseem/Scents-Website.git)
-  - 
-
+    
 
 ### Languages & Skills
 ![Python](https://go-skill-icons.vercel.app/api/icons?i=python)

@@ -7,9 +7,12 @@
 - Building projects to strengthen my programming and problem-solving skills
 - Open to collaborate on beginner-friendly and intermediate projects
 - Recently built:
+  - [Deep Learning Image Classification System](https://github.com/Soha-Waseem/Plastic_Classifier.git)
+  - [ML-based Spam Email detector](https://github.com/Soha-Waseem/Spam-Email-Detector.git)
   - [Hangman Game in Python & Tkinter](https://github.com/Soha-Waseem/Hangman-Game---Python.git)
   - [Tic-Tac-Toe in x86 Assembly](https://github.com/Soha-Waseem/Tic-Tac-Toe-Game.git)
   - [Scents Website in HTML](https://github.com/Soha-Waseem/Scents-Website.git)
+  - 
 
 
 ### Languages & Skills

@@ -12,6 +12,7 @@ Bahria University, Karachi &nbsp;|&nbsp; BS Artificial Intelligence &nbsp;|&nbsp
 
 </div>
 <br>
+
 ## About
 
 I'm currently studying AI Engineering at Bahria University, and most of my time outside class goes into actually building things — not just following tutorials. I like taking a project from a messy dataset all the way to something that works end to end, whether that's a trained model or an app someone can actually click through.

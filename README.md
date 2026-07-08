@@ -2,7 +2,7 @@
 
 # Soha Waseem
 
-**AI Engineering Student — Machine Learning · Deep Learning · NLP**
+**AI Undergraduate — Machine Learning · Deep Learning · NLP**
 
 Bahria University, Karachi &nbsp;|&nbsp; BS Artificial Intelligence &nbsp;|&nbsp; CGPA: 3.7/4.0
 
@@ -13,7 +13,7 @@ Bahria University, Karachi &nbsp;|&nbsp; BS Artificial Intelligence &nbsp;|&nbsp
 
 ## About
 
-I'm currently studying AI Engineering at Bahria University, and most of my time outside class goes into actually building things and not just following tutorials. I like taking a project from a messy dataset all the way to something that works end to end, whether that's a trained model or an app someone can actually click through.
+I'm currently a AI undergraduate at Bahria University, and most of my time outside class goes into actually building things and not just following tutorials. I like taking a project from a messy dataset all the way to something that works end to end, whether that's a trained model or an app someone can actually click through.
 
 So far that's meant working across computer vision, NLP, and a bit of classical ML, picking up TensorFlow, PyTorch, and Hugging Face Transformers along the way. I've also represented my university at a few national competitions SUPARCO CanSat 2025, FAST Procom 2026, IBA Probattle 2025, and BUKC Supercomp 2024 — which taught me a lot about building under pressure and working with a team.
 

@@ -22,12 +22,13 @@ Currently looking for AI/ML internship and entry-level engineering opportunities
 <br>
 ## Highlights
  
-<div align="center">
-| 99.5% | 94% | 4+ | Top 10 |
-|:---:|:---:|:---:|:---:|
-| CNN accuracy on Plastic Object Classifier | Test accuracy on Spam Email Detector | End-to-end AI/ML applications built independently | University teams selected for SUPARCO CanSat 2025 |
+| Metric | Detail |
+|---|---|
+| **99.5% accuracy** | CNN — Plastic Object Classifier |
+| **94% test accuracy** | Logistic Regression — Spam Email Detector |
+| **4+ projects** | End-to-end AI/ML applications built independently |
+| **Top 10 nationally** | Selected as 1 of ~10 university teams, SUPARCO CanSat 2025 |
  
-</div>
 <br>
 ## Technical Skills
  
@@ -87,3 +88,4 @@ Full code and details for each project are in my pinned repositories.
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/soha-waseem-559b65362)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sohawaseem387@gmail.com)
+ 

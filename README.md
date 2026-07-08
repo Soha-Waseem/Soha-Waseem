@@ -13,7 +13,7 @@ Bahria University, Karachi &nbsp;|&nbsp; BS Artificial Intelligence &nbsp;|&nbsp
 <br>
 ## About
  
-I'm an AI Engineering student who builds complete, working machine learning systems from raw data, to a trained model, to a usable interface. My work spans computer vision, NLP, and applied machine learning.
+I'm an AI Engineering student who builds complete, working machine learning systems — from raw data, to a trained model, to a usable interface. My work spans computer vision, NLP, and applied machine learning.
  
 I've represented my university at national-level competitions, including SUPARCO CanSat 2025, FAST Procom 2026, IBA Probattle 2025, and BUKC Supercomp 2024, and hold certifications in AI for Everyone (DeepLearning.AI) and an AI Data Science Bootcamp (DataCrumbs).
  

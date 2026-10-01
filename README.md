@@ -9,7 +9,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 I'm an AI Engineering student at Bahria University, Karachi, building end-to-end ML and AI systems — from data pipelines and model training to deployment-ready apps. My work spans classical ML, deep learning, fuzzy logic, and applied NLP/RAG systems, and I recently completed a Machine Learning internship at FlyRank AI, working on ML assignments and data analysis.
 
@@ -17,7 +17,7 @@ I care about clean, honest engineering: reproducible pipelines, well-evaluated m
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -36,7 +36,7 @@ I care about clean, honest engineering: reproducible pipelines, well-evaluated m
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Soha-Waseem&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
@@ -45,7 +45,7 @@ I care about clean, honest engineering: reproducible pipelines, well-evaluated m
 
 ---
 
-### 💡 Areas of Focus
+###  Areas of Focus
 
 - **Applied ML & Model Building** — classification, regression, and evaluation across image, tabular, and text data
 - **NLP & RAG Systems** — retrieval-augmented generation, transformer fine-tuning, and hybrid rule-based + neural pipelines
@@ -54,15 +54,15 @@ I care about clean, honest engineering: reproducible pipelines, well-evaluated m
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 - **[AI_Agent (Soveya)](https://github.com/Soha-Waseem/AI_Agent)** — RAG-based AI customer support agent for a fictional e-commerce company, grounded in policy docs and live Google Sheets data to answer product, order, and refund questions.
-- **Autocorrect Pro** — Hybrid Damerau–Levenshtein + T5 transformer autocorrect tool with a Streamlit interface across six modules.
-- **LoanTracker** — Loan approval predictor combining KNN with a FastAPI backend and Next.js frontend.
-- **Anemia Diagnosis (Fuzzy Logic)** — Mamdani-style fuzzy inference system classifying anemia subtypes from CBC parameters (Hb, MCV, MCH, RDW), achieving 88.2% accuracy.
-- **Plastic Object Color Classifier** — MobileNet-based image classifier for sorting plastic objects by color.
-- **CNN Image Classifier** — 99.5% accuracy across 3 classes on a 900-image dataset.
-
+- **[Autocorrect (An Intelligent Autocorrect Tool)](https://github.com/Soha-Waseem/AutoCorrect)**  — Hybrid Damerau–Levenshtein + T5 transformer autocorrect tool with a Streamlit interface across six modules.
+- **[LoanTracker](https://github.com/Soha-Waseem/LoanTracker)** — Loan approval predictor combining KNN with a FastAPI backend and Next.js frontend.
+- **[Anemia Diagnosis (Fuzzy Logic)](https://github.com/Soha-Waseem/AnemiaDiagnosis-FuzzyLogic)** — Mamdani-style fuzzy inference system classifying anemia subtypes from CBC parameters (Hb, MCV, MCH, RDW), achieving 88.2% accuracy.
+- **[Plastic Object Color Classifier](https://github.com/Soha-Waseem/Plastic_Classifier)** — MobileNet-based image classifier for sorting plastic objects by color. It results with 99.5% accuracy across 3 classes on a 900-image dataset.
+- **[Spam Email Classifier](https://github.com/Soha-Waseem/Spam-Email-Detector)** — A machine learning–based system that classifies emails as Spam or Not Spam using Logistic Regression. It includes a statistical anomaly detection check to identify unusual sender behavior.
+  
 *See the [full portfolio](https://sohawaseem-portfolio.vercel.app) for 19+ public repositories.*
 
 ---
